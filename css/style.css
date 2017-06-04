@@ -1,0 +1,19 @@
+img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 300px;
+    border: 2px solid black;
+}
+
+/* obrot */
+.rotate img {
+    
+    transform: rotate(20deg);
+}
+
+/* przesuniecie */
+
+.translat img {
+    transform: translate(200px, 100px);
+}
+
